@@ -1,0 +1,2 @@
+# MagicMirror
+MagicMirror Installation Codes
